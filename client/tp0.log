@@ -1,0 +1,68 @@
+[INFO] 11:46:31:942 logger/(5919:5919): Soy un log
+[INFO] 12:02:23:741 logger/(6354:6354): Soy un log
+[INFO] 12:03:59:819 logger/(6422:6422): Soy un log
+[INFO] 12:05:43:824 logger/(6493:6493): Soy un log
+[INFO] 12:06:14:962 logger/(6533:6533): Soy un log
+[INFO] 12:06:14:962 logger/(6533:6533): valor
+[INFO] 12:10:36:275 logger/(6706:6706): Soy un log
+[INFO] 12:11:15:374 logger/(6745:6745): Soy un log
+[INFO] 12:11:15:384 logger/(6745:6745): Lei el valor de la CLAVE valor
+[INFO] 12:30:10:451 logger/(7414:7414): Soy un log
+[INFO] 12:30:10:451 logger/(7414:7414): Lei el valor de la CLAVE valor
+[INFO] 12:31:17:158 logger/(7465:7465): Soy un log
+[INFO] 12:31:17:158 logger/(7465:7465): Lei el valor de la CLAVE valor
+[INFO] 12:32:42:022 logger/(7610:7610): Soy un log
+[INFO] 12:32:42:022 logger/(7610:7610): Lei el valor de la CLAVE valor
+[INFO] 12:33:55:807 logger/(7625:7625): Soy un log
+[INFO] 12:33:55:807 logger/(7625:7625): Lei el valor de la CLAVE valor
+[INFO] 12:38:39:776 logger/(7751:7751): Soy un log
+[INFO] 12:38:39:785 logger/(7751:7751): Lei el valor de la CLAVE valor
+[INFO] 12:40:20:877 logger/(7816:7816): Soy un log
+[INFO] 12:40:20:877 logger/(7816:7816): Lei el valor de la CLAVE valor
+[INFO] 12:40:37:853 logger/(7829:7829): Soy un log
+[INFO] 12:40:37:853 logger/(7829:7829): Lei el valor de la CLAVE valor
+[INFO] 12:42:59:788 logger/(7920:7920): Soy un log
+[INFO] 12:42:59:788 logger/(7920:7920): Lei el valor de la CLAVE valor
+[INFO] 12:43:05:548 logger/(7920:7920): aaa
+[INFO] 12:44:15:506 logger/(7985:7985): Soy un log
+[INFO] 12:44:15:524 logger/(7985:7985): Lei el valor de la CLAVE valor
+[INFO] 12:44:20:673 logger/(7985:7985): aa
+[INFO] 12:44:42:378 logger/(8003:8003): Soy un log
+[INFO] 12:44:42:378 logger/(8003:8003): Lei el valor de la CLAVE valor
+[INFO] 12:44:45:668 logger/(8003:8003): aa
+[INFO] 12:45:37:335 logger/(8060:8060): Soy un log
+[INFO] 12:45:37:336 logger/(8060:8060): Lei el valor de la CLAVE valor
+[INFO] 12:45:41:477 logger/(8060:8060): aaa
+[INFO] 12:46:35:298 logger/(8109:8109): Soy un log
+[INFO] 12:46:35:301 logger/(8109:8109): Lei el valor de la CLAVE valor
+[INFO] 12:49:15:151 logger/(8215:8215): Soy un log
+[INFO] 12:49:15:151 logger/(8215:8215): Lei el valor de la CLAVE valor
+[INFO] 12:49:17:476 logger/(8215:8215): 
+[INFO] 12:50:31:685 logger/(8237:8237): Soy un log
+[INFO] 12:50:31:685 logger/(8237:8237): Lei el valor de la CLAVE valor
+[INFO] 12:50:48:222 logger/(8237:8237): aaaa
+[INFO] 12:51:13:072 logger/(8255:8255): Soy un log
+[INFO] 12:51:13:072 logger/(8255:8255): Lei el valor de la CLAVE valor
+[INFO] 12:51:19:685 logger/(8255:8255): aaaaa
+[INFO] 12:51:25:988 logger/(8255:8255): aaaaaaaa
+[INFO] 12:51:26:165 logger/(8255:8255): 
+[INFO] 12:52:18:151 logger/(8280:8280): Soy un log
+[INFO] 12:52:18:152 logger/(8280:8280): Lei el valor de la CLAVE valor
+[INFO] 12:52:29:333 logger/(8280:8280): hola 
+[INFO] 12:52:31:270 logger/(8280:8280): k ase
+[INFO] 12:52:34:875 logger/(8280:8280): 
+[INFO] 12:58:11:759 logger/(8386:8386): Soy un log
+[INFO] 12:58:11:760 logger/(8386:8386): Lei el valor de la CLAVE valor
+[INFO] 12:58:31:582 logger/(8386:8386): aaa
+[INFO] 12:58:32:438 logger/(8386:8386): 
+[INFO] 12:59:08:588 logger/(8411:8411): Soy un log
+[INFO] 12:59:08:588 logger/(8411:8411): Lei el valor de la CLAVE valor
+[INFO] 12:59:12:259 logger/(8411:8411): asd
+[INFO] 12:59:17:406 logger/(8411:8411): 
+[INFO] 13:03:32:527 logger/(8498:8498): Soy un log
+[INFO] 13:03:32:527 logger/(8498:8498): Lei el valor de la CLAVE valor
+[INFO] 13:03:42:053 logger/(8513:8513): Soy un log
+[INFO] 13:03:42:054 logger/(8513:8513): Lei el valor de la CLAVE valor
+[INFO] 13:03:49:942 logger/(8513:8513): holaaaa
+[INFO] 13:03:51:789 logger/(8513:8513): aaa
+[INFO] 13:03:55:768 logger/(8513:8513): 
